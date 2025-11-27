@@ -31,9 +31,6 @@ requirements.txt
 ---
 
 ## 🖼 Screenshots
-![inicio appPython](https://github.com/user-attachments/assets/c1eda38b-916d-45b5-916c-6248c21c4086)
-
-
 
 ---
 
