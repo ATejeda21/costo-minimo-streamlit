@@ -31,6 +31,13 @@ requirements.txt
 ---
 
 ## 🖼 Screenshots
+![Inicio app](https://github.com/user-attachments/assets/0c38c0e1-a4fc-46f9-81a2-ef1ae6d9cc19)
+
+![Costos matriz](https://github.com/user-attachments/assets/6046321b-8e82-4464-93f9-aac9c6ca6d06)
+
+![Ofertas y Demandas](https://github.com/user-attachments/assets/fbbc1da2-5e8c-4b98-8bfa-5e000bf5e996)
+
+![Matriz](https://github.com/user-attachments/assets/ac97e3ae-f251-4475-9620-09816adce9d8)
 
 ---
 
