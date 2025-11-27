@@ -70,5 +70,5 @@ CTRL + C
 ---
 
 ## 👤 Autor
-**Fredy Alejandro Tejeda**
+**Fredy Alejandro Tejeda Recinos**
 ________________________________________
